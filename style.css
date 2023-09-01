@@ -3,3 +3,53 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+section#featured-property {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 68%;
+
+  
+    }
+
+nav > a {
+  text-align: center;
+  padding: 10px, 10px;
+  background-color: grey;
+
+}
+
+div#first {
+  text-align: center;
+  float:left;
+  background:Red;
+  width:25%;
+  height: 150px;
+}
+
+div#second {
+  text-align: center;
+  float:left;
+  background:red;
+  width:25%;
+  height: 150px;
+}
+
+div#third {
+  text-align: center;
+  float:left;
+  background:red;
+  width:25%;
+  height: 150px;
+}
+
+div#fourth {
+  text-align: center;
+  float:right;
+  background:red;
+  width:25%;
+  height: 150px;
+}
